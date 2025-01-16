@@ -33,6 +33,10 @@ Here's a sneak peek at one of the visualizations from the analysis:
 
 ![Budget Gap Chart Example](image.png)
 
+![Budget Gap Chart Example](imag2.png)
+
+![Budget Gap Chart Example](image3.png)
+
 ---
 
 Feel free to explore the data and reach out with any questions! 😊
